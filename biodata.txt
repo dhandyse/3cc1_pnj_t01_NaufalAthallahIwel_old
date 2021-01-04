@@ -1,3 +1,4 @@
 No. Reg	: 1920010174
 Nama	: Naufal
 Jurusan	: Software Engineering
+Angkatan: 2019
